@@ -1,5 +1,9 @@
 <!-- Profile Header -->
-<h1 align="center">I am Rejaul Karim 👋</h1>
+<h1 align="left">
+  Hi there
+  <img src="./img/wave.gif" alt="wave" width="30" height="30" />
+</h1>
+
 <p align="center">
   Full-Stack Web & Mobile Developer • Bangladesh
 </p>
