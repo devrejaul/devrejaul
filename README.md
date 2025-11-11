@@ -15,7 +15,7 @@
 ## 🙋‍♂️ About Me
 আমি একজন Full-Stack Mobile & Web App Developer। 4+ বছরের হাতে-কলমে কাজ/লার্নিং; ক্লিন UI, পারফরম্যান্স, অ্যাক্সেসিবিলিটি—এগুলোতেই বেশি ফোকাস করি।  
 **Languages:** Bangla, English, Hindi  
-**CV:** [Download / View](#) <!-- https://drive.google.com/file/d/1-5nZd_kkwWUPXP3Wfn-OdUn52bsNBXyI/view?usp=sharing -->
+**CV:** [Download / View](https://drive.google.com/file/d/1-5nZd_kkwWUPXP3Wfn-OdUn52bsNBXyI/view?usp=sharing) <!--  CV -->
 
 - 🔭 Current focus: React, Next.js, Laravel, Node.js  
 - 🌱 Learning: TypeScript, Testing (Jest/Playwright)  
