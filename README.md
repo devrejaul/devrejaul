@@ -20,7 +20,7 @@
 - 🔭 Current focus: React, Next.js, Laravel, Node.js  
 - 🌱 Learning: TypeScript, Testing (Jest/Playwright)  
 - 💬 Ask me about: Frontend architecture, REST APIs, SEO for SPAs  
-- 📫 How to reach me: your-email@example.com
+- 📫 How to reach me: rejaulwebdev85@gmail.com 
 
 ---
 
