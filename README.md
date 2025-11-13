@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:your- rejaulwebdev85@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail"></a>
   <a href="https://devrejaul.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"></a>
   <a href="https://www.linkedin.com/in/your-handle/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
