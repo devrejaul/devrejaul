@@ -2,7 +2,7 @@
 <h1 align="center">I am Rejaul Karim 👋</h1>
 <p align="center">
   Full-Stack Web & Mobile Developer • Bangladesh
-</p>
+</p> 
 
 <p align="center">
   <a href="mailto: rejaulwebdev85@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail"></a>
